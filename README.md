@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, I'm Rutuparna 👋
 
-<!--
-**rutuparna-phy/rutuparna-phy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Physics graduate
+- Preparing for PhD
+- Learning Python 
+- Interested in computational physics and simulations
 
-Here are some ideas to get you started:
+## Currently Learning
+- Python basics
+- C programming
+- Git and GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Build physics simulation projects
+- Upload study-related coding projects
+- Create a strong academic portfolio 🤓
