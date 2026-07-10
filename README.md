@@ -1,14 +1,14 @@
 ## Hi there, I'm Rutuparna 👋
 
 ## About Me
-- Physics graduate
+- Physics Postgraduate
 - Preparing for PhD
 - Learning Python 
 - Interested in computational physics and simulations
 
 ## Currently Learning
 - Python basics
-- C programming
+- AI-assisted programming
 - Git and GitHub
 
 ## Goals
